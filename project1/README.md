@@ -57,15 +57,15 @@
 
 Сравнение всех моделей:
 
-Linear Regression: RMSE = 344.4, R2 = 0.515
-Ridge (L2): RMSE = 344.4, R2 = 0.515
-Lasso (L1): RMSE = 344.4, R2 = 0.515
-k-NN (k=5): RMSE = 309.1, R2 = 0.610
-Random Forest: RMSE = 298.9, R2 = 0.635
-Gradient Boosting (sklearn): RMSE = 286.4, R2 = 0.665
-XGBoost: RMSE = 289.3, R2 = 0.658
-LightGBM: RMSE = 282.5, R2 = 0.674
-CatBoost: RMSE = 284.9, R2 = 0.668
+ - Linear Regression: RMSE = 344.4, R2 = 0.515
+ - Ridge (L2): RMSE = 344.4, R2 = 0.515
+ - Lasso (L1): RMSE = 344.4, R2 = 0.515
+ - k-NN (k=5): RMSE = 309.1, R2 = 0.610
+ - Random Forest: RMSE = 298.9, R2 = 0.635
+ - Gradient Boosting (sklearn): RMSE = 286.4, R2 = 0.665
+ - XGBoost: RMSE = 289.3, R2 = 0.658
+ - LightGBM: RMSE = 282.5, R2 = 0.674
+ - CatBoost: RMSE = 284.9, R2 = 0.668
 
 ## Анализ важности признаков
 
